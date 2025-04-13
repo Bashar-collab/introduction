@@ -31,10 +31,6 @@ A backend system for managing a library with JWT authentication & role-based acc
 A healthcare app for booking home test appointments, with sample collection, lab analysis, and results delivered via the app.
 [🔗 GitHub Repo](https://github.com/Bashar-collab/LabProject)  
 
-### 🛒 **Reparo System (Laravel)** (Currently working on it)  
-An integrated digital system for managing electrical and plumbing repair services.  
-[🔗 GitHub Repo](https://github.com/Bashar-collab/Reparo)  
-
 ---
 
 ## 📊 GitHub Stats  
